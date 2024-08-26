@@ -3,6 +3,7 @@
 </div>
 A space Shooter game in `c`.
 
-https://github.com/user-attachments/assets/46ee7761-2d4d-4b1e-b070-3841d6c25497
+![spaceshooter](https://github.com/user-attachments/assets/00dbdccd-3f88-4b01-830d-94bc03f1acd2)
+
 
 No download link, just the code
